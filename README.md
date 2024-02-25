@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shahzaibishah" target="blank"><img src="https://img.shields.io/twitter/follow/shahzaibishah?logo=twitter&style=for-the-badge" alt="shahzaibishah" /></a> </p>
 
-- 🌱 I’m currently learning **Php Laravel**
+- 🌱 I’m currently learning **Javascript/React**
 
 - 📫 How to reach me **iamshahzaibartist1@gmail.com**
 
